@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/honeycombio-honeycomb-mcp-badge.png)](https://mseep.ai/app/honeycombio-honeycomb-mcp)
+
 # Honeycomb MCP
 
 A [Model Context Protocol](https://modelcontextprotocol.io) server for interacting with Honeycomb observability data. This server enables LLMs like Claude to directly analyze and query your Honeycomb datasets across multiple environments.
